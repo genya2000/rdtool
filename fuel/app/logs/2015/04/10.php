@@ -1,0 +1,3 @@
+<?php defined('COREPATH') or exit('No direct script access allowed'); ?>
+
+ERROR - 2015-04-10 07:25:04 --> Error - date_default_timezone_get(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\Users\h-yamashita\vag\www\8050\fuelphp-1-7-2\fuel\core\classes\fuel.php on line 167
